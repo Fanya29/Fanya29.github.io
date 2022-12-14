@@ -1,0 +1,68 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.first_block{
+    background-color: white;
+    display: flex;
+}
+
+.first_block__logo__img{
+    width: 200px;
+    height: 200px;
+}
+
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 25px;
+}
+
+.first_block__description {
+    color: #23BA5D;
+}
+
+.second_block{
+    background-color: #23BA5D;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.second_block__description{
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    color: white;
+}
+
+.third_block__how_to_use{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.third_block__how_to_use__picture{
+    text-align: center;
+}
+
+.fourth_block{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.fourth_block__install__button{
+    background-color: #23BA5D;
+    border: 0;
+    border-radius: 15px;
+    width: 200px;
+    height: 70px;
+}
+
+h3{
+    color: white;
+    font-size: 20px;
+}
+
+
+
