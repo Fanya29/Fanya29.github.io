@@ -62,8 +62,10 @@ h2{
 }
 
 .fourth_block__install__button__text{
+    text-align: center;
     color: white;
     font-size: 20px;
+    text-underline-mode: none;
 }
 
 
