@@ -57,9 +57,11 @@ h2{
     border-radius: 15px;
     width: 200px;
     height: 70px;
+    margin-left:40%;
+    margin-right: 60%;
 }
 
-h3{
+.fourth_block__install__button__text{
     color: white;
     font-size: 20px;
 }
